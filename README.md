@@ -1,1 +1,4 @@
- Langkah Langkahnya ada di README 
+    Nama   : Ashar Rahmawan
+    kelas  : TI.20.A2
+
+    Langkah Langkahnya 
