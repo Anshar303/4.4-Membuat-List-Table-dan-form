@@ -32,7 +32,8 @@
       • dan Descriptiona List adalah list yang berisi definisi.
 
       # ordered list 
-      Digunakan untuk membuat daftar dimana tiap bagiannya ditandai dengan sebuah simbol. Ordered list dibuat dengan tag <ol>. Lalu di dalamnya diisi dengan item-         item yang akan dimasukkan ke dalam list. Item dibuat dengan tag <li> (list item).
+      Digunakan untuk membuat daftar dimana tiap bagiannya ditandai dengan sebuah simbol. Ordered list dibuat dengan tag <ol>. 
+      Lalu di dalamnya diisi dengan item - item yang akan dimasukkan ke dalam list. Item dibuat dengan tag <li> (list item).
 
       Secara default ordered list akan diurutkan berdasarkan angka 1,2,3,...dst. Angka tersebut dapat
       diubah sesuai dengan kebutuhan, misalnya ingin menampilkan urutan berdasarkan angka romawi
@@ -46,9 +47,12 @@
 
 
       # Unordered list 
-      Digunakan untuk membuat daftar dimana tiap bagiannya memiliki nomor secara terurut. Unordered list dibuat dengan tag <ul> dan untuk item-nya dibuat juga             dengan tag <li>.
+      Digunakan untuk membuat daftar dimana tiap bagiannya memiliki nomor secara terurut. 
+      Unordered list dibuat dengan tag <ul> dan untuk item-nya dibuat juga dengan tag <li>.
 
-      Secara default simbol yang digunakan oleh unordered list adalah lingkaran kecil (disc). Simbol tersebut dapat diubah sesuai dengan kebutuhannya, seperti             kotak, lingkaran, atau tanpa simbol. Untuk mengubahnya dengan menambahkan atribut type pada tag ul dan berikan nilainya sesuai dengan yang diinginkan.
+      Secara default simbol yang digunakan oleh unordered list adalah lingkaran kecil (disc). 
+      Simbol tersebut dapat diubah sesuai dengan kebutuhannya, seperti kotak, lingkaran, atau tanpa simbol. 
+      Untuk mengubahnya dengan menambahkan atribut type pada tag ul dan berikan nilainya sesuai dengan yang diinginkan.
 
      square untuk simbol persegi;
      • disc (default) untuk simbol lingkaran disc;
@@ -62,7 +66,9 @@
  
 
         # Description List
-       Digunakan untuk membuat daftar dimana tiap daftar tersebut memiliki penjelasan (sub bagian). Ada tiga tag yang digunakan untuk membuat description list,            yaitu:
+       Digunakan untuk membuat daftar dimana tiap daftar tersebut memiliki penjelasan (sub bagian). 
+       Ada tiga tag yang digunakan untuk membuat description list,           
+       yaitu:
        <dl> (description list) tag untuk memulai description list;
        <dt> (description term) tag untuk membuat kata yang akan dideskripsikan;
        <dd> (description description) tag untuk membuat penjelasan dari kata.
@@ -96,10 +102,13 @@
       <th> 		Membuat judul kolom
       <tr> 	Mendefinisikan baris dalam tabel. Atribut: align (left, center, right), valign (top, middle, bottom)
       <td> 	Mendefinisikan kolom tabel. Atribut: align (left, center, right), valign (top, middle, bottom), colspan, rowspan.
-      Tag yang paling penting untuk diingat adalah tag <table>, <tr>, dan <td>. Sementara tag yang lain adalah tambahan (opsional), boleh digunakan boleh tidak.
+      Tag yang paling penting untuk diingat adalah tag <table>, <tr>, dan <td>. 
+      Sementara tag yang lain adalah tambahan (opsional), boleh digunakan boleh tidak.
 
       Menggabungkan Sel Data
-      Sel data pada tabel dapat digambugkan untuk keperluan tertentu. Untuk menggabungkan sel secara vertikal menggunakan atribut rowspan dan untuk menggabungkan         sel secara horizontal menggunakan atribut colspan. Atribut tersebut dapat ditambahkan pada tag td (tabel data) dengan nilai atributnya adalah jumlah sel yang       akan digabungkan.
+      Sel data pada tabel dapat digambugkan untuk keperluan tertentu. 
+      Untuk menggabungkan sel secara vertikal menggunakan atribut rowspan dan untuk menggabungkan sel secara horizontal menggunakan atribut colspan. 
+      Atribut tersebut dapat ditambahkan pada tag td (tabel data) dengan nilai atributnya adalah jumlah sel yang akan digabungkan.
  
                                                    Maka akan menampilkan hasil seperti ini 
 
