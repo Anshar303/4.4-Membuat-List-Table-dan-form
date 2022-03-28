@@ -7,7 +7,7 @@
     
 
 
-      •	Menyimpan file dengan format HTML
+ •	Menyimpan file dengan format HTML
 
  ![image](https://user-images.githubusercontent.com/72779594/160318882-ecaaefa9-cbb7-4e5c-af9d-7e8bddc6c3a4.png)
 
